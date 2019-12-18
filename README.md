@@ -14,8 +14,6 @@ countries’ trending pages differ from each other.
 Our dataset is from Kaggle and it contains info about trending videos from 10 different countries from the period 14.11.2017 until 31.05.2018. There is info about publish time, trending date, view/like/dislike/comment count, description, tags, etc. <br>
 https://www.kaggle.com/datasnaek/youtube-new
 
-Results ?
-
 ### Files:
 datasets contain original datasets from Kaggle <br>
 graph_photos contain graphs made from the code in the notebook <br>
