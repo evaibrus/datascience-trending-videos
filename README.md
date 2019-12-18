@@ -19,6 +19,6 @@ Results ?
 ### Files:
 datasets contain original datasets from Kaggle <br>
 graph_photos contain graphs made from the code in the notebook <br>
-newsets ? 
+newsets csv files which contain information about videos on their first day in trending (view, like, dislike and comment count), one csv file for each country
 
 Project made with Python 3 and Jupyter Notebook.
